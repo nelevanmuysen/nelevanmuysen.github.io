@@ -2,14 +2,14 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories | Praktijk Nele Vanmuysen</title>
-    <link>https://nelevanmuysen.github.io/categories/</link>
-      <atom:link href="https://nelevanmuysen.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://nelevanmuysen.be/categories/</link>
+      <atom:link href="https://nelevanmuysen.be/categories/index.xml" rel="self" type="application/rss+xml" />
     <description>Categories</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>nl</language>
     <image>
-      <url>https://nelevanmuysen.github.io/media/logo_hu24936dfefba8c1835033aad728847ec3_102939_300x300_fit_lanczos_3.png</url>
+      <url>https://nelevanmuysen.be/media/logo_hu24936dfefba8c1835033aad728847ec3_102939_300x300_fit_lanczos_3.png</url>
       <title>Categories</title>
-      <link>https://nelevanmuysen.github.io/categories/</link>
+      <link>https://nelevanmuysen.be/categories/</link>
     </image>
     
   </channel>
